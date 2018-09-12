@@ -1,0 +1,85 @@
+#gameboy-body{
+	height: 155px;
+	width: 85px;
+	border-radius: 10px;
+	border: solid 3px #766aff;
+	padding:3px 5px;
+}
+
+#outer-screen{
+	height: 70px;
+	width:80px;
+	border-radius: 5px;
+	border: solid 3px #766aff;
+	margin: 0 auto;
+	
+}
+
+#inner-screen{
+	height: 45px;
+	width:45px;
+	border-radius: 2px;
+	border: solid 3px #766aff;
+	margin: 7px auto 0 auto;
+
+}
+
+#button-area{
+	width: 75px;
+	height: 60px;
+	/*border: solid 3px #766aff;*/
+	margin: 7px auto 0 auto;
+}
+
+#touch-pad{
+	
+	display:inline-block;
+	width:35px;
+	margin-top:10px;
+	
+}
+
+.touchpad-row{
+	height: none;
+	margin:-10px 0 0 0;
+}
+
+.touchpad-box{
+	width:5px;
+	height:5px;
+	border: solid 2px #766aff;
+	display:inline-block;
+	margin: 0;
+}
+
+#start-select{
+	display: inline-block;
+	text-align: center;
+	margin-top: 10px;
+	margin-left:23px;
+}
+
+.ss-button{
+	width:8px;
+	height:2px;
+	border: solid 2px #766aff;
+	display: inline-block;
+}
+
+
+.button{
+	width: 7px;
+	height: 7px;
+	border: solid 3px #766aff;
+	border-radius: 100%;
+	float: right;
+}
+
+#a-button{
+	margin-top: 15px;
+}
+
+#b-button{
+	margin-top:25px;
+	margin-right:3px;
+}

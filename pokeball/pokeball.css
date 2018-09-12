@@ -1,0 +1,26 @@
+#pokeball{
+	height: 250px;
+	width: 250px;
+	border: solid 5px #454343;
+	border-radius: 100%;
+	background-color: transparent;
+}
+
+#red-top{
+	height: 125px;
+	width: 250px;
+	border-top-left-radius: 500px;
+			border-top-right-radius: 500px;
+			background-color: red;
+			border-bottom: solid 5px #454343;
+
+}
+
+#pokeball-button{
+	height: 35px;
+	width: 35px;
+	border-radius: 100%;
+	border: solid 5px #454343;
+	background-color: #f9f9f9;
+	margin: -25px 0 0 100px;
+}
